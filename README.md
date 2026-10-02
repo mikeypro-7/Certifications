@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Kuppala-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-kuppala-40960a395/)
 [![GitHub](https://img.shields.io/badge/GitHub-mikeypro--7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mikeypro-7)
+[![Wiki](https://img.shields.io/badge/GitHub_Wiki-Documentation-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/mikeypro-7/Certifications/wiki)
 
 Welcome to the official certifications repository of **Pranay Kuppala** ([@mikeypro-7](https://github.com/mikeypro-7)). This repository documents verified certificates, credentials, and achievements across Computer Science, Artificial Intelligence, Semiconductors, Cybersecurity, and Emerging Technologies.
 
@@ -58,14 +59,31 @@ Welcome to the official certifications repository of **Pranay Kuppala** ([@mikey
 
 ---
 
+## 📖 Official Documentation & Wiki
+
+Detailed course syllabi, core competencies, and credential verification guides are maintained in the [Official Repository Wiki](https://github.com/mikeypro-7/Certifications/wiki) and in the [`wiki/`](./wiki/) directory:
+
+* 🛡️ **[Cybersecurity Fundamentals Dossier](./wiki/Cybersecurity-Fundamentals.md)**
+* ⚛️ **[AI, Semiconductors & Quantum Computing Dossier](./wiki/AI-Semiconductors-Quantum.md)**
+* 🔍 **[Credential Verification & Authentication Guide](./wiki/Verification-Guide.md)**
+
+---
+
 ## 📂 Repository Structure
 
 ```
 Certifications/
 ├── README.md
-└── IBM/
-    ├── IBM-AI-Semiconductors-Quantum-Computing.jpg
-    └── IBM-Cybersecurity-Fundamentals.png
+├── IBM/
+│   ├── IBM-AI-Semiconductors-Quantum-Computing.jpg
+│   └── IBM-Cybersecurity-Fundamentals.png
+└── wiki/
+    ├── Home.md
+    ├── Cybersecurity-Fundamentals.md
+    ├── AI-Semiconductors-Quantum.md
+    ├── Verification-Guide.md
+    ├── _Sidebar.md
+    └── _Footer.md
 ```
 
 ---
